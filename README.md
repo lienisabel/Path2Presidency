@@ -8,5 +8,6 @@ The game allows for multiple players (2-4), and gives each player a score card t
 
 How we built it
 We built it using the ionic framework.
+
 html, css, javascript 
 
